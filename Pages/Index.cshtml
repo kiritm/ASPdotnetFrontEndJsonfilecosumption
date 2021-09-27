@@ -1,0 +1,24 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Sample page</h1>
+    <p>Web apps with ASP.NET Core and Json file data integration.</p>
+</div>
+<div class=" card-columns">
+    @foreach (var book in Model.Books)
+    {
+        <div class="card">
+            <div class="card-img " style="background-image:url('@book.BookImg')"></div>
+            <div class="card-body ">
+                <h5 class="card-title">Title : @book.BookTitle</h5>
+                <h6 style="color:green;"> Author : @book.BookAuthor1</h6>
+                <h6>ISBN : @book.BookISBN</h6>
+                <h6 style="color:blue;">Price : @book.BookPurchasePrice</h6>
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,32 @@
+[
+    {
+        "BookTitle": "So We Meet Again",
+        "BookEdition": "First",
+        "BookAuthor1": "Suzanne Park",
+        "BookAuthor2": "1",
+        "BookCategory": "Women's Fiction",
+        "BookPurchasePrice": "13.39",
+        "BookPublisher": "HarperCollins Publishers",
+        "BookISBN": "0062990713",
+        "BookStatus": "Available",
+        "BookStorage_Code": "SM123",
+        "BookFormat": "Paperback",
+        "ReleaseDate": "01/01/1900",
+        "BookImgURL": "https://images.freeimages.com/images/small-previews/c56/book-1424031.jpg"
+    },
+    {
+        "BookTitle": "Sorry I Missed You: A Novel",
+        "BookEdition": "First",
+        "BookAuthor1": "Suzy Krause",
+        "BookAuthor2": "1",
+        "BookCategory": "Literature & Fiction",
+        "BookPurchasePrice": "05.54",
+        "BookPublisher": "Lake Union Publishing",
+        "BookISBN": "1542010209",
+        "BookStatus": "Available",
+        "BookStorage_Code": "SM123",
+        "BookFormat": "Paperback",
+        "ReleaseDate": "01/01/1900",
+        "BookImgURL": "https://images.freeimages.com/images/small-previews/76e/book-with-white-pages-1507326.jpg"
+    }
+]
